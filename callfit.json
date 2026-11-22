@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Find funding, open calls and residencies that fit Trivune. Terminal app.",
   "homepage": "https://github.com/TRIVUNE/callfit-search",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/TRIVUNE/callfit-search/releases/download/v0.2.0/callfit-x86_64-pc-windows-msvc.zip",
-      "hash": "dd08a43af54ccf567552e2d838988c9399d2b9ab66e12cde6f72cdebe14c9757"
+      "url": "https://github.com/TRIVUNE/callfit-search/releases/download/v0.3.0/callfit-x86_64-pc-windows-msvc.zip",
+      "hash": "7c3621a3cc9488caa5368ea0a8e2bc5598accbd0fa2ad8b3efb521a240a60829"
     }
   },
   "bin": "callfit.exe",
